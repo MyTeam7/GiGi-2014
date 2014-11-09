@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<connection>
+  <connection host="localhost" database="gigi" username="root" password="" port="3306" dbname="MySql"/>
+</connection>

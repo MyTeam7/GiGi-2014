@@ -1,0 +1,52 @@
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\bin\Debug\MySql.Data.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\bin\Debug\MySql.Data.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+D:\repo\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\MySql.Data.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.dll
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.DAL.pdb
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.dll
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\bin\Debug\GiGi.COMMON.pdb
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.dll
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.DAL\obj\Debug\GiGi.DAL.pdb

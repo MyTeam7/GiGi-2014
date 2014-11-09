@@ -1,0 +1,29 @@
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\dilanka\Desktop\New folder\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Downloads\Compressed\GiGi Ui Dota\GiGi.UI\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\Dilanka\Desktop\GiGi\GiGi Root\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.csprojResolveAssemblyReference.cache
+D:\repo\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+D:\repo\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+D:\repo\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+D:\repo\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+D:\Git_Project\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
