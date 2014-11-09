@@ -279,6 +279,7 @@
             // dgvGI1
             // 
             this.dgvGI1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvGI1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvGI1.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
@@ -395,6 +396,7 @@
             // dgvGI2
             // 
             this.dgvGI2.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dgvGI2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvGI2.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;

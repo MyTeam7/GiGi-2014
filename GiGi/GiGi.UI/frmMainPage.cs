@@ -71,6 +71,20 @@ namespace GiGi.UI
 
         }
 
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            frmFactoryProduction frmFactoryProduction = new frmFactoryProduction();
+            frmFactoryProduction.MdiParent = this;
+            frmFactoryProduction.Show();
+        }
+
+        private void factoryProductionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFactoryProduction frmFactoryProduction = new frmFactoryProduction();
+            frmFactoryProduction.MdiParent = this;
+            frmFactoryProduction.Show();
+        }
+
 
 
     }

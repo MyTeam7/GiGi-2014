@@ -27,3 +27,7 @@ C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.d
 C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
 C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
 C:\Users\User\Desktop\GiGi-Project-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
+D:\repo\GiGi-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.dll
+D:\repo\GiGi-2014\GiGi\GiGi.COMMON\bin\Debug\GiGi.COMMON.pdb
+D:\repo\GiGi-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.dll
+D:\repo\GiGi-2014\GiGi\GiGi.COMMON\obj\Debug\GiGi.COMMON.pdb
